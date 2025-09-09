@@ -3,7 +3,7 @@ Accepted at the 19th ACM Conference on Recommender Systems (**RecSys 2025**) ðŸŽ
 
 ## 1. Introduction
 
-This repository contains the implementation of our paper.
+This repository contains the implementation of our [paper](https://dl.acm.org/doi/10.1145/3705328.3748023).
 
 ## 2. Acknowledgement
 
